@@ -15,14 +15,23 @@
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/yourusername/job-application-bot.git
-   cd job-application-bot
-   ```
+```bash
+git clone https://github.com/yourusername/job-application-bot.git
+cd job-application-bot
+```
 2. **Create and activate a virtual environment**
 
 ```bash
 python3 -m venv job-bot-env
 source job-bot-env/bin/activate
 ```
-3.
+3. **Install the dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+4. **Run the application**
+
+```bash
+python app.py
+```
