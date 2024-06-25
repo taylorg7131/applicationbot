@@ -50,3 +50,11 @@ python app.py
 - `forms.py`: Flask-WTF forms for login and registration.
 - `templates/`: HTML templates for the web application.
 - `static/`: Static files (CSS, JavaScript, images).
+
+## Contributing
+
+Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License.
