@@ -35,3 +35,18 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+## Usage
+
+- Navigate to `http://127.0.0.1:5000` in your web browser.
+- Register for a new account or log in with an existing account.
+- Enter the job keyword and location to search for jobs.
+- Select the jobs you want to apply for and submit the form.
+
+## Project Structure
+
+- `app.py`: Main Flask application file.
+- `models.py`: User model and in-memory user store.
+- `forms.py`: Flask-WTF forms for login and registration.
+- `templates/`: HTML templates for the web application.
+- `static/`: Static files (CSS, JavaScript, images).
