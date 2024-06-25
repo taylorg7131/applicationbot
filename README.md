@@ -1,49 +1,28 @@
-# ApplicationBot
+# Job Application Bot
 
-ApplicationBot is a Python application for [describe what your application does or its purpose].
+## Overview
 
-## Installation
+**The Job Application Bot** is a Python-based web application that allows users to search for jobs on Indeed, select jobs from the search results, and apply for them automatically. Users can register, log in, and manage their job applications through a web interface.
 
-## Clone the Repository
+## Features
 
-# Clone the repository
-```bash
-git clone https://github.com/yourusername/job-application-bot.git
-```
-# Navigate to the project directory
-```bash
-cd job-application-bot
-```
+- User registration and login
+- Job search using Indeed
+- Select and apply to jobs from search results
+- Email notifications for job applications
 
-```bash
+## Setup and Installation
 
-```
-## Create and Activate a Virtual Environment
+1. **Clone the Repository**
 
-# Create a virtual environment named job-bot-env
+   ```bash
+   git clone https://github.com/yourusername/job-application-bot.git
+   cd job-application-bot
+   ```
+2. **Create and activate a virtual environment**
 
 ```bash
 python3 -m venv job-bot-env
-```
-
-# Activate the virtual environment
-```bash
 source job-bot-env/bin/activate
 ```
-
-## Usage
-
-### Install Dependencies
-
-Install the required dependencies from the `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run the Application
-Run the application using Python:
-
-```bash
-python app.py
-```
+3.
