@@ -51,6 +51,14 @@ python app.py
 - `templates/`: HTML templates for the web application.
 - `static/`: Static files (CSS, JavaScript, images).
 
+## Documentation
+
+- [app.py Documentation](./docs/app_README.md)
+- [models.py Documentation](./docs/models_README.md)
+- [forms.py Documentation](./docs/forms_README.md)
+- [scrape_jobs.py Documentation](./docs/scrape_jobs_README.md)
+
+
 ## Contributing
 
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
