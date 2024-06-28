@@ -57,6 +57,8 @@ python app.py
 - [models.py Documentation](./docs/models_README.md)
 - [forms.py Documentation](./docs/forms_README.md)
 - [scrape_jobs.py Documentation](./docs/scrape_jobs_README.md)
+- [User Storage Documentation](./docs/user_storage.md)
+
 
 
 ## Contributing
